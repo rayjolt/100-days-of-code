@@ -1,30 +1,7 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: 21 March 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Enrolled in Andrew Ng's [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) course on Coursera, watched the first two introductory videos, and answered my first grading question. Also, watched five videos on vectors at [Khan Academy](https://www.khanacademy.org).
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:** Everything I learned about vectors in school came flooding back (which is a credit to my maths teachers, as that was almost 20 years ago). There were some interesting things I didn't know before as well, like how to write the definition of a line in n dimensions. The machine learning introduction was mostly stuff that I knew before, although I expect that will quickly change. Andrew Ng's example of a neural network was very clear, and the easiest to understand I've seen yet.
