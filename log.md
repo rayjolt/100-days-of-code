@@ -1,7 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: 21 March 2018
+### Day 1: 21 March 2018
 
 **Today's Progress**: Enrolled in Andrew Ng's [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) course on Coursera, watched the first two introductory videos, and answered my first grading question. Also, watched five videos on vectors at [Khan Academy](https://www.khanacademy.org).
 
 **Thoughts:** Everything I learned about vectors in school came flooding back (which is a credit to my maths teachers, as that was almost 20 years ago). There were some interesting things I didn't know before as well, like how to write the definition of a line in n dimensions. The machine learning introduction was mostly stuff that I knew before, although I expect that will quickly change. Andrew Ng's example of a neural network was very clear, and the easiest to understand I've seen yet.
+
+### Day 2: 22 March 2018
+
+**Today's Progress**: I've finished week one of the Neural Networks and Deep Learning course, including taking the quiz. That was a quick week! I got 10/10 on the quiz, yay. :) And I did some more brushing up on vectors on Khan Academy.
+
+**Thoughts:** I still need more work on my vectors and matrices, so I think I will be doing them in parallel to the neural nets course. Week two of the course is going to involve a lot more of them, I'm guessing, so I'll have to judge my pace so that I learn enough linear algebra that I can progress, but not so much that I spend all of my time doing that.
