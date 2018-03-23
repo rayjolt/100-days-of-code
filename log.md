@@ -11,3 +11,9 @@
 **Today's Progress**: I've finished week one of the Neural Networks and Deep Learning course, including taking the quiz. That was a quick week! I got 10/10 on the quiz, yay. :) And I did some more brushing up on vectors on Khan Academy.
 
 **Thoughts:** I still need more work on my vectors and matrices, so I think I will be doing them in parallel to the neural nets course. Week two of the course is going to involve a lot more of them, I'm guessing, so I'll have to judge my pace so that I learn enough linear algebra that I can progress, but not so much that I spend all of my time doing that.
+
+### Day 3: 23 March 2018
+
+**Today's Progress**: Spent all of my time today learning about matrices on Khan Academy.
+
+**Thoughts:** It turns out that after 18 years you forget how to do matrix multiplication. I still have a way to go to get back up to speed, but hopefully I can mostly do that tomorrow.
