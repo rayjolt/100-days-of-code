@@ -17,3 +17,9 @@
 **Today's Progress**: Spent all of my time today learning about matrices on Khan Academy.
 
 **Thoughts:** It turns out that after 18 years you forget how to do matrix multiplication. I still have a way to go to get back up to speed, but hopefully I can mostly do that tomorrow.
+
+### Day 4: 24 March 2018
+
+**Today's Progress**: Also spent all of my time today learning about matrices on Khan Academy. This is becoming a theme. I covered 2D matrix transformations, and matrix inverses and determinants.
+
+**Thoughts:** I was blown away by learning about matrix transformations, and realising that they basically underpin all of 3D computer graphics. When I get as far as matrix transposes I should be able to understand what's going on in the week 2 machine learning videos, so I'll switch back to Andrew Ng's course at that point.
