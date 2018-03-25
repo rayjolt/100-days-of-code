@@ -23,3 +23,9 @@
 **Today's Progress**: Also spent all of my time today learning about matrices on Khan Academy. This is becoming a theme. I covered 2D matrix transformations, and matrix inverses and determinants.
 
 **Thoughts:** I was blown away by learning about matrix transformations, and realising that they basically underpin all of 3D computer graphics. When I get as far as matrix transposes I should be able to understand what's going on in the week 2 machine learning videos, so I'll switch back to Andrew Ng's course at that point.
+
+### Day 5: 25 March 2018
+
+**Today's Progress**: Finished studying matrices and vectors at Khan Academy (for now), and am starting back on the machine learning course videos.
+
+**Thoughts:** I now know a lot more about matrices than I did a few days ago, and the logistic regression algorithm in Andrew Ng's course is starting to make sense. I feel I'm making good progress.
