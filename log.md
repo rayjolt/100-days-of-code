@@ -29,3 +29,9 @@
 **Today's Progress**: Finished studying matrices and vectors at Khan Academy (for now), and am starting back on the machine learning course videos.
 
 **Thoughts:** I now know a lot more about matrices than I did a few days ago, and the logistic regression algorithm in Andrew Ng's course is starting to make sense. I feel I'm making good progress.
+
+### Day 6: 26 March 2018
+
+**Today's Progress**: Watched all of the compulsory week 2 videos for the Neural Networks and Deep Learning course.
+
+**Thoughts:** Today's videos were mostly about Python, which I'm a lot more at home with than the maths. Numpy is still new for me though, so it's still not exactly plain sailing. Tomorrow I'll be going on to the programming assignment. Finally, I'll be writing real code!
