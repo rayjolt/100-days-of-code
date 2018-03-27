@@ -35,3 +35,9 @@
 **Today's Progress**: Watched all of the compulsory week 2 videos for the Neural Networks and Deep Learning course.
 
 **Thoughts:** Today's videos were mostly about Python, which I'm a lot more at home with than the maths. Numpy is still new for me though, so it's still not exactly plain sailing. Tomorrow I'll be going on to the programming assignment. Finally, I'll be writing real code!
+
+### Day 7: 27 March 2018
+
+**Today's Progress**: Started working through the introduction to numpy in the Neural Networks and Deep Learning course (hereby abbreviated to NNDL).
+
+**Thoughts:** There were a few new concepts in the introduction - notably vector and matrix norms - so it was slow going. It was also my first time working with Jupyter notebooks, which are awesome so far (and I hear they get better). I can tell that it's going to take some time before I'm comfortable with all the maths here, but hey, that's the point, right? :)
