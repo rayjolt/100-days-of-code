@@ -41,3 +41,9 @@
 **Today's Progress**: Started working through the introduction to numpy in the Neural Networks and Deep Learning course (hereby abbreviated to NNDL).
 
 **Thoughts:** There were a few new concepts in the introduction - notably vector and matrix norms - so it was slow going. It was also my first time working with Jupyter notebooks, which are awesome so far (and I hear they get better). I can tell that it's going to take some time before I'm comfortable with all the maths here, but hey, that's the point, right? :)
+
+### Day 8: 28 March 2018
+
+**Today's Progress**: Did the week two quiz in the NNDL course, and worked on the numpy introduction some more.
+
+**Thoughts:** I only got 9/10 on the quiz due to a careless mistake (boo). Otherwise, it wasn't too bad. The maths is still the bottleneck for me, but it's coming.
