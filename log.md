@@ -47,3 +47,9 @@
 **Today's Progress**: Did the week two quiz in the NNDL course, and worked on the numpy introduction some more.
 
 **Thoughts:** I only got 9/10 on the quiz due to a careless mistake (boo). Otherwise, it wasn't too bad. The maths is still the bottleneck for me, but it's coming.
+
+### Day 9: 29 March 2018
+
+**Today's Progress**: Finished the numpy introduction, and started on the first required programming assignment.
+
+**Thoughts:** The result of the programming assignment will be a real machine learning algorithm, so I'm pretty excited. :) Still, it's slow going, as I'm still getting used to numpy and matrices.
