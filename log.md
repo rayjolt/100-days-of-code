@@ -53,3 +53,9 @@
 **Today's Progress**: Finished the numpy introduction, and started on the first required programming assignment.
 
 **Thoughts:** The result of the programming assignment will be a real machine learning algorithm, so I'm pretty excited. :) Still, it's slow going, as I'm still getting used to numpy and matrices.
+
+### Day 10: 30 March 2018
+
+**Today's Progress**: Just studied more about vectors today.
+
+**Thoughts:** No earth-shattering discoveries today, but I did get to learn some interesting properties of vector dot products.
