@@ -59,3 +59,9 @@
 **Today's Progress**: Just studied more about vectors today.
 
 **Thoughts:** No earth-shattering discoveries today, but I did get to learn some interesting properties of vector dot products.
+
+### Day 11: 31 March 2018
+
+**Today's Progress**: Continued the week one programming assignment.
+
+**Thoughts:** My first successful forward propagation and back-propagation. Nice! Those cat pics aren't quite classified yet, though.
