@@ -62,6 +62,12 @@
 
 ### Day 11: 31 March 2018
 
-**Today's Progress**: Continued the week one programming assignment.
+**Today's Progress**: Continued the week two programming assignment.
 
 **Thoughts:** My first successful forward propagation and back-propagation. Nice! Those cat pics aren't quite classified yet, though.
+
+### Day 12: 1 April 2018
+
+**Today's Progress**: Finished the week two programming assignment. I now have a bona fide cat recognition algorithm. At the moment it has 70% accuracy.
+
+**Thoughts:** Finishing week two feels good! I didn't find the programming hard - it was just learning the new ML concepts and getting used to NumPy, really. I actually found the "Introduction to NumPy" programming assignment trickier than the graded assignment.
