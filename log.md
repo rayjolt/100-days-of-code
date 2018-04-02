@@ -71,3 +71,9 @@
 **Today's Progress**: Finished the week two programming assignment. I now have a bona fide cat recognition algorithm. At the moment it has 70% accuracy.
 
 **Thoughts:** Finishing week two feels good! I didn't find the programming hard - it was just learning the new ML concepts and getting used to NumPy, really. I actually found the "Introduction to NumPy" programming assignment trickier than the graded assignment.
+
+### Day 13: 2 April 2018
+
+**Today's Progress**: Started on the week 3 videos, and also started brushing up on my calculus at Khan Academy. (Today I went over the delta/epsilon limit proof, which I vaguely remember from school, but not well enough to feel comfortable going further in calculus without.) 
+
+**Thoughts:** Again, I'm going to have to pace myself with calculus - I don't want to study it to the exclusion of the ML course and then have to do my assignments in a rush. But I have a strong feeling that a good understanding of it will help me. And hopefully the calculus from school will start coming back once I get back into it a bit.
