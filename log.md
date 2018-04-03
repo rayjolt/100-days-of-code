@@ -77,3 +77,9 @@
 **Today's Progress**: Started on the week 3 videos, and also started brushing up on my calculus at Khan Academy. (Today I went over the delta/epsilon limit proof, which I vaguely remember from school, but not well enough to feel comfortable going further in calculus without.) 
 
 **Thoughts:** Again, I'm going to have to pace myself with calculus - I don't want to study it to the exclusion of the ML course and then have to do my assignments in a rush. But I have a strong feeling that a good understanding of it will help me. And hopefully the calculus from school will start coming back once I get back into it a bit.
+
+### Day 14: 3 April 2018
+
+**Today's Progress**: Watched videos about differential calculus on Khan Academy.
+
+**Thoughts:** Just going over the basics again. In my school maths class we never learned limits formally, only informally, but I think that differential calculus is much easier to understand when you understand the formal definition of limits first.
