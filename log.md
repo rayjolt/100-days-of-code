@@ -83,3 +83,9 @@
 **Today's Progress**: Watched videos about differential calculus on Khan Academy.
 
 **Thoughts:** Just going over the basics again. In my school maths class we never learned limits formally, only informally, but I think that differential calculus is much easier to understand when you understand the formal definition of limits first.
+
+### Day 15: 4 April 2018
+
+**Today's Progress**: Watched more videos about differential calculus on Khan Academy.
+
+**Thoughts:** Mmm, nutritious maths. Today I got past the formal introduction to the derivative of a function, and got on to the power rule. This is much more familiar to me - I remember doing a lot of this stuff in school. I think I'll go as far as the chain rule and then go back to the machine learning course.
