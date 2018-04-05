@@ -89,3 +89,9 @@
 **Today's Progress**: Watched more videos about differential calculus on Khan Academy.
 
 **Thoughts:** Mmm, nutritious maths. Today I got past the formal introduction to the derivative of a function, and got on to the power rule. This is much more familiar to me - I remember doing a lot of this stuff in school. I think I'll go as far as the chain rule and then go back to the machine learning course.
+
+### Day 16: 5 April 2018
+
+**Today's Progress**: Studied the chain rule, the product rule, and the quotient rule on Khan Academy, then tried to find the derivative of the sigmoid function.
+
+**Thoughts:** I bought off a bit more than I could chew with the sigmoid function! I failed when I tried by myself, but I now know/remember enough calculus to understand the [derivation on Stack Exchange](https://math.stackexchange.com/questions/78575/derivative-of-sigmoid-function-sigma-x-frac11e-x).
