@@ -95,3 +95,9 @@
 **Today's Progress**: Studied the chain rule, the product rule, and the quotient rule on Khan Academy, then tried to find the derivative of the sigmoid function.
 
 **Thoughts:** I bought off a bit more than I could chew with the sigmoid function! I failed when I tried by myself, but I now know/remember enough calculus to understand the [derivation on Stack Exchange](https://math.stackexchange.com/questions/78575/derivative-of-sigmoid-function-sigma-x-frac11e-x).
+
+### Day 17: 6 April 2018
+
+**Today's Progress**: Finished off the videos for week 3 of NNDL, found the derivative of the tanh function, and passed the week 3 quiz.
+
+**Thoughts:** I was impressed with myself for differentiating tanh without any help, although I did know what the answer was supposed to be. I (again) only got 9 out of 10 on the quiz though, (again) due to a careless mistake. But overall, a good day's study.
