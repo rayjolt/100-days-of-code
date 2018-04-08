@@ -107,3 +107,9 @@
 **Today's Progress**: Spent today going back through the videos for week three and the quizzes for week 2 and week 3.
 
 **Thoughts:** I spent quite a lot of time going through the dimensions of the different matrices in the different layers of the neural networks, and now I think I have a much better handle of what is going on. And because in NNDL you can take the quizzes as many times as you want and they keep your top score, I now have 10/10 on both. Yay!
+
+### Day 19: 8 April 2018
+
+**Today's Progress**: Started the programming exercise for week 3 of NNDL.
+
+**Thoughts:** I haven't quite finished the exercise, although I did finish the model - my first neural network with a hidden layer.
