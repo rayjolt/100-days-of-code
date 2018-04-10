@@ -119,3 +119,9 @@
 **Today's Progress**: Finished week 3 of NNDL, and started on the videos for week 4.
 
 **Thoughts:** On a similar theme as week two, I didn't find the programming exercise that difficult this time. In fact, it was easier this time, as it was so similar to the week two exercise. It's quite fun to see how even a neural network with just one hidden layer can do a much better job at fitting data than logistic regression can. At this rate, I'll be able to finish week four in a few days.
+
+### Day 21: 10 April 2018
+
+**Today's Progress**: Finished the videos and the quiz for week 4 of NNDL.
+
+**Thoughts:** I got 10/10 on the quiz. (Finally!) And I feel I have a good understanding of the material now, which is probably why.
