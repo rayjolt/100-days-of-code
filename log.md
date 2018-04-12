@@ -131,3 +131,9 @@
 **Today's Progress**: Finished the first programming exercise for week 4 of NNDL.
 
 **Thoughts:** It was tough starting today as I got back pretty late from work, but I still managed to finish my study at a not-too-unreasonable time. The programming exercise was basically the same as for week three, but generalised to any number of layers of network instead of just two. Tomorrow, hopefully I will be correctly classifying some cute little kitties.
+
+### Day 23: 12 April 2018
+
+**Today's Progress**: Finished the course! And I had a bit of time left over, so I watched the video about the Caucy-Schwartz inequality on Khan Academy.
+
+**Thoughts:** The last programming exercise was the easiest of the lot - it was basically just copying and pasting function definitions that I'd written before. The result was pretty good though - my cat-recognition model is now up to 80% accuracy.
