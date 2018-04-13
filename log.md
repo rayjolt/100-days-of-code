@@ -137,3 +137,9 @@
 **Today's Progress**: Finished the course! And I had a bit of time left over, so I watched the video about the Caucy-Schwartz inequality on Khan Academy.
 
 **Thoughts:** The last programming exercise was the easiest of the lot - it was basically just copying and pasting function definitions that I'd written before. The result was pretty good though - my cat-recognition model is now up to 80% accuracy.
+
+### Day 24: 13 April 2018
+
+**Today's Progress**: Started on Andrew Ng's Machine Learning course at Coursera, and took the first quiz.
+
+**Thoughts:** This course seems a lot easier than NNDL - it looks like I took them the wrong way round - but there are lots of details in here that I think will help cement my understanding of neural networks, and give me some broader machine learning knowledge. I can easily imagine missing a useful approach to a problem if all I know about is neural nets. The course is supposed to take 11 weeks, but I imagine I'll finish it much quicker than that.
