@@ -143,3 +143,9 @@
 **Today's Progress**: Started on Andrew Ng's Machine Learning course at Coursera, and took the first quiz.
 
 **Thoughts:** This course seems a lot easier than NNDL - it looks like I took them the wrong way round - but there are lots of details in here that I think will help cement my understanding of neural networks, and give me some broader machine learning knowledge. I can easily imagine missing a useful approach to a problem if all I know about is neural nets. The course is supposed to take 11 weeks, but I imagine I'll finish it much quicker than that.
+
+### Day 25: 14 April 2018
+
+**Today's Progress**: Learned more about series on Khan Academy.
+
+**Thoughts:** The first thing in the machine learning course is linear regression, and it looks like to really understand it I will need to be able to differentiate a series, which means I need to properly understand series. (Serieses? Nope, that's not right.) So I spent a lot of time muddling through arithmetic series today, and I was surprised at how little I remembered about them from school. They make a lot more sense after seeing Sal's proof for the general formula of an arithmetic series on Khan Academy. The actual differentiation part will come later.
