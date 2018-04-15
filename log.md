@@ -149,3 +149,9 @@
 **Today's Progress**: Learned more about series on Khan Academy.
 
 **Thoughts:** The first thing in the machine learning course is linear regression, and it looks like to really understand it I will need to be able to differentiate a series, which means I need to properly understand series. (Serieses? Nope, that's not right.) So I spent a lot of time muddling through arithmetic series today, and I was surprised at how little I remembered about them from school. They make a lot more sense after seeing Sal's proof for the general formula of an arithmetic series on Khan Academy. The actual differentiation part will come later.
+
+### Day 26: 15 April 2018
+
+**Today's Progress**: Learned more about linear regression in the ML course, more series on Khan Academy, and also started looking at multivariable functions on Khan Academy.
+
+**Thoughts:** It turns out that in week one of the ML course they solve linear regression using gradient descent, although it can apparently be solved directly as well. It makes sense that you have to use gradient descent for neural networks, as the input space is so complex, but I'm impressed to learn that there are direct methods for simpler ML models as well. I'm going to need to learn more of the maths to understand all of this properly. Good job I have a whole 74 days left. ;)
