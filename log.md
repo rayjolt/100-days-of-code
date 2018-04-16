@@ -155,3 +155,9 @@
 **Today's Progress**: Learned more about linear regression in the ML course, more series on Khan Academy, and also started looking at multivariable functions on Khan Academy.
 
 **Thoughts:** It turns out that in week one of the ML course they solve linear regression using gradient descent, although it can apparently be solved directly as well. It makes sense that you have to use gradient descent for neural networks, as the input space is so complex, but I'm impressed to learn that there are direct methods for simpler ML models as well. I'm going to need to learn more of the maths to understand all of this properly. Good job I have a whole 74 days left. ;)
+
+### Day 27: 16 April 2018
+
+**Today's Progress**: Finished week 1 of the ML course, and started on the week 2 videos. Finished all of the linear regression ones already.
+
+**Thoughts:** I was pleased to see that I could do the week 1 linear algebra quiz without looking at any of the Coursera linear algebra videos - obviously what I learned from those Khan Academy videos has stuck.
