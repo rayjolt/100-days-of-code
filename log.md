@@ -161,3 +161,9 @@
 **Today's Progress**: Finished week 1 of the ML course, and started on the week 2 videos. Finished all of the linear regression ones already.
 
 **Thoughts:** I was pleased to see that I could do the week 1 linear algebra quiz without looking at any of the Coursera linear algebra videos - obviously what I learned from those Khan Academy videos has stuck.
+
+### Day 28: 17 April 2018
+
+**Today's Progress**: Learned more about partial derivatives on Khan Academy, then rewatched Patrick Winston's neural net lecture for the MIT Artificial Intelligence course.
+
+**Thoughts:** Watching the lecture the second time made a lot more sense than watching it the first time! I think the first time was a little more than a year ago, and I had no idea about partial derivatives then. Still, I can tell that I still have quite a bit of work to do to be fully mathematically literate at this stuff.
