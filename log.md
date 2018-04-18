@@ -167,3 +167,9 @@
 **Today's Progress**: Learned more about partial derivatives on Khan Academy, then rewatched Patrick Winston's neural net lecture for the MIT Artificial Intelligence course.
 
 **Thoughts:** Watching the lecture the second time made a lot more sense than watching it the first time! I think the first time was a little more than a year ago, and I had no idea about partial derivatives then. Still, I can tell that I still have quite a bit of work to do to be fully mathematically literate at this stuff.
+
+### Day 29: 18 April 2018
+
+**Today's Progress**: Watched week two videos for the Coursera ML course, did the linear regression quiz, and started playing around with Octave.
+
+**Thoughts:** I only got 3/5 on the quiz on my first attempt. Both of the ones I got wrong were silly mistakes (forgot a minus sign, and forgot a parameter). But that's not the end of the world - I got all of them right on the second attempt. Octave seems fun so far - I have a feeling I'm going to enjoy the programming exercises this time. Apparently you can do them on Matlab too, but why use that when you can GNU?
