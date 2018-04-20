@@ -179,3 +179,9 @@
 **Today's Progress**: Watched the rest of the Octave videos on Coursera and took the Octave quiz.
 
 **Thoughts:** Octave has a few surprises, but nothing extremely new. I do like the "magic" function - it's very useful for trying stuff out. Next up is the programming exercise, but scheduling means I'll probably have to stick with videos instead. Either Khan Academy or part two of Patrick Winston's neural nets lecture, I think.
+
+### Day 31: 20 April 2018
+
+**Today's Progress**: Watched videos about partial differentiation and parametric functions on Khan Academy. 
+
+**Thoughts:** I ended up going with the Khan Academy videos today. Lots of good stuff there, and I think I have a good understanding of partial differentiation now, although I could probably do with more practice at actually solving some of them.
