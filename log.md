@@ -185,3 +185,9 @@
 **Today's Progress**: Watched videos about partial differentiation and parametric functions on Khan Academy. 
 
 **Thoughts:** I ended up going with the Khan Academy videos today. Lots of good stuff there, and I think I have a good understanding of partial differentiation now, although I could probably do with more practice at actually solving some of them.
+
+### Day 32: 21 April 2018
+
+**Today's Progress**: Started the linear regression programming exercise for the ML Coursera course.
+
+**Thoughts:** I now have linear regression with one variable working as it should be. I am finding Octave harder going than the Python used in the NNDL course - which makes sense, as I use Python every day, but Octave is new for me - but at least I won't be totally out of my depth now if someone asks me to program something in MATLAB. Tomorrow I'll finish off the optional part fo the programming assignment (linear regression with multiple variables), and then I'll move on to week three and new ML models. 
