@@ -191,3 +191,9 @@
 **Today's Progress**: Started the linear regression programming exercise for the ML Coursera course.
 
 **Thoughts:** I now have linear regression with one variable working as it should be. I am finding Octave harder going than the Python used in the NNDL course - which makes sense, as I use Python every day, but Octave is new for me - but at least I won't be totally out of my depth now if someone asks me to program something in MATLAB. Tomorrow I'll finish off the optional part fo the programming assignment (linear regression with multiple variables), and then I'll move on to week three and new ML models. 
+
+### Day 33: 22 April 2018
+
+**Today's Progress**: Finished the linear regression programming exercise and started watching the week three videos.
+
+**Thoughts:** Week three is about logistic regression, which I have already covered in NNDL, but the ML course seems more in-depth, so I think I'll probably learn some new things. From a couple of things in the videos so far, it looks like I'll need to brush up on my statistics as well.
