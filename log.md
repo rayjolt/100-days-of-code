@@ -197,3 +197,9 @@
 **Today's Progress**: Finished the linear regression programming exercise and started watching the week three videos.
 
 **Thoughts:** Week three is about logistic regression, which I have already covered in NNDL, but the ML course seems more in-depth, so I think I'll probably learn some new things. From a couple of things in the videos so far, it looks like I'll need to brush up on my statistics as well.
+
+### Day 34: 23 April 2018
+
+**Today's Progress**: Finished the videos and quizzes for week three.
+
+**Thoughts:** Perhaps there were less videos for week three than for week two, but I seemed to get through them very quickly this time. Just the programming exercise left, and I'll be on week four.
