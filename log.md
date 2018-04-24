@@ -208,4 +208,4 @@
 
 **Today's Progress**: Started the programming exercise for week three.
 
-**Thoughts:** A lot of today's time was spent working out how to plot nice graphs in Octave, and a lot of the rest was spent on realising that I had forgotten to plug my sigmoid function into my logistic regression model. But I am steadily getting more comfortable with Octave, which is good. Hopefully tomorrow I'll be able to finish the programming exercise off.0
+**Thoughts:** A lot of today's time was spent working out how to plot nice graphs in Octave, and a lot of the rest was spent on realising that I had forgotten to plug my sigmoid function into my logistic regression model. But I am steadily getting more comfortable with Octave, which is good. Hopefully tomorrow I'll be able to finish the programming exercise off.
