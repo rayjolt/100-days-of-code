@@ -209,3 +209,9 @@
 **Today's Progress**: Started the programming exercise for week three.
 
 **Thoughts:** A lot of today's time was spent working out how to plot nice graphs in Octave, and a lot of the rest was spent on realising that I had forgotten to plug my sigmoid function into my logistic regression model. But I am steadily getting more comfortable with Octave, which is good. Hopefully tomorrow I'll be able to finish the programming exercise off.
+
+### Day 36: 25 April 2018
+
+**Today's Progress**: Finished the programming exercise for week three.
+
+**Thoughts:** And with that, week three is over. It's been interesting to learn about regularisation, and about the alternatives to gradient descent, and implementing them was surprisingly easy. (Well, I didn't implement the gradient descent alternative myself, to be fair - I just called an Octave function.) Tomorrow it's onto week four and neural networks.
