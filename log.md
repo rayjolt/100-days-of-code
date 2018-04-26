@@ -215,3 +215,9 @@
 **Today's Progress**: Finished the programming exercise for week three.
 
 **Thoughts:** And with that, week three is over. It's been interesting to learn about regularisation, and about the alternatives to gradient descent, and implementing them was surprisingly easy. (Well, I didn't implement the gradient descent alternative myself, to be fair - I just called an Octave function.) Tomorrow it's onto week four and neural networks.
+
+### Day 37: 26 April 2018
+
+**Today's Progress**: Finished the videos and the quiz for week four.
+
+**Thoughts:** Week four is about neural network basics, so this is familiar ground for me. Although Prof. Ng uses slightly different notation than he does for the NNDL course, which is confusing.
