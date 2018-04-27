@@ -221,3 +221,9 @@
 **Today's Progress**: Finished the videos and the quiz for week four.
 
 **Thoughts:** Week four is about neural network basics, so this is familiar ground for me. Although Prof. Ng uses slightly different notation than he does for the NNDL course, which is confusing.
+
+### Day 38: 27 April 2018
+
+**Today's Progress**: Finished the programming exercise for week four.
+
+**Thoughts:** Similarly to yesterday, the programming exercise was all familiar stuff. In fact, apparently Prof. Ng thought that people would implement logistic regression using a for loop for the week three assignment, and this week's challenge was to implement it in vectorised form. However, my solution from last week three was already vectorised, so it was literally just copy and paste to pass that part.
