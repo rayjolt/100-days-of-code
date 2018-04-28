@@ -227,3 +227,9 @@
 **Today's Progress**: Finished the programming exercise for week four.
 
 **Thoughts:** Similarly to yesterday, the programming exercise was all familiar stuff. In fact, apparently Prof. Ng thought that people would implement logistic regression using a for loop for the week three assignment, and this week's challenge was to implement it in vectorised form. However, my solution from last week three was already vectorised, so it was literally just copy and paste to pass that part.
+
+### Day 39: 28 April 2018
+
+**Today's Progress**: Finished the videos and the quiz for week five.
+
+**Thoughts:** These weeks are starting to go by very quickly! Well, this one was about back-propogation in neural networks, which is another thing I've covered before. Next week is about advice for applying machine learning, which will probably be mostly new, and then the week after is about support vector machines, which is definitely new. So I'll have to see if I can keep up this pace.
