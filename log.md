@@ -234,8 +234,14 @@
 
 **Thoughts:** These weeks are starting to go by very quickly! Well, this one was about back-propogation in neural networks, which is another thing I've covered before. Next week is about advice for applying machine learning, which will probably be mostly new, and then the week after is about support vector machines, which is definitely new. So I'll have to see if I can keep up this pace.
 
-### Day 40: 28 April 2018
+### Day 40: 29 April 2018
 
 **Today's Progress**: Started the programming exercise for week five.
 
 **Thoughts:** I spent most of today staring blankly at the cost function for neural networks using multiple classification, and wondering how to implement it in Octave in a vectorised way. I understand the basic idea, but I can't seem to get it to work. Will try again tomorrow...
+
+### Day 41: 30 April 2018
+
+**Today's Progress**: Still working through the programming exercise. I managed to do the bit I was stuck on yesterday, which was good.
+
+**Thoughts:** This programming exercise is definitely harder than the previous ones. I was glad that I managed to figure out yesterday's problem, though. I'm definitely starting to get the hang of vectorised stuff, even if my progress is still a little slower than I would like.
