@@ -245,3 +245,9 @@
 **Today's Progress**: Still working through the programming exercise. I managed to do the bit I was stuck on yesterday, which was good.
 
 **Thoughts:** This programming exercise is definitely harder than the previous ones. I was glad that I managed to figure out yesterday's problem, though. I'm definitely starting to get the hang of vectorised stuff, even if my progress is still a little slower than I would like.
+
+### Day 42: 1 May 2018
+
+**Today's Progress**: Slogging on further with the programming exercise.
+
+**Thoughts:** Watching the back-propagation lectures again helped a lot to figure out what the notes for the programming exercise are saying, and the back-propagation part is now (I think) done. I'm getting an error in my cost function implementation, though, so it looks like I might have done the regularisation part of that wrong when I tried it the first time. Hopefully I'll be able to finish the exercise tomorrow.
