@@ -251,3 +251,9 @@
 **Today's Progress**: Slogging on further with the programming exercise.
 
 **Thoughts:** Watching the back-propagation lectures again helped a lot to figure out what the notes for the programming exercise are saying, and the back-propagation part is now (I think) done. I'm getting an error in my cost function implementation, though, so it looks like I might have done the regularisation part of that wrong when I tried it the first time. Hopefully I'll be able to finish the exercise tomorrow.
+
+### Day 43: 2 May 2018
+
+**Today's Progress**: Finally finished the week five programming exercise.
+
+**Thoughts:** It feels great to have this programming exercise done! Doing this exercise has made me realise how delicate neural networks are - if you make a mistake in the arithmetic, it might look like it's working, but then the numbers you get back at the end can be completely wrong. It's not like mixing strings and ints in regular programming where you get a type error straight away - all you're mixing is floats with floats with other floats. Being strict about matrix sizes helps, but that's definitely not the end of the story.
