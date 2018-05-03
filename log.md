@@ -257,3 +257,9 @@
 **Today's Progress**: Finally finished the week five programming exercise.
 
 **Thoughts:** It feels great to have this programming exercise done! Doing this exercise has made me realise how delicate neural networks are - if you make a mistake in the arithmetic, it might look like it's working, but then the numbers you get back at the end can be completely wrong. It's not like mixing strings and ints in regular programming where you get a type error straight away - all you're mixing is floats with floats with other floats. Being strict about matrix sizes helps, but that's definitely not the end of the story.
+
+### Day 44: 3 May 2018
+
+**Today's Progress**: Started the week six videos and took the first quiz.
+
+**Thoughts:** The material for week six seems comparatively simple, and I didn't find anything in the videos difficult. However, I only got 4 out of 5 on the first quiz the first two times I took it. I'm pretty sure the second of those was a careless mistake, although I'm less sure about the first. Third time lucky, I suppose. The idea of plotting learning curves for a network is a really good one - it's one of those things that just makes intuitive sense, and it looks like it will be very useful for diagnosing problems in real neural networks. The next step is the programming exercise - hopefully this one won't take me four days.
