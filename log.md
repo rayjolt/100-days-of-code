@@ -263,3 +263,9 @@
 **Today's Progress**: Started the week six videos and took the first quiz.
 
 **Thoughts:** The material for week six seems comparatively simple, and I didn't find anything in the videos difficult. However, I only got 4 out of 5 on the first quiz the first two times I took it. I'm pretty sure the second of those was a careless mistake, although I'm less sure about the first. Third time lucky, I suppose. The idea of plotting learning curves for a network is a really good one - it's one of those things that just makes intuitive sense, and it looks like it will be very useful for diagnosing problems in real neural networks. The next step is the programming exercise - hopefully this one won't take me four days.
+
+### Day 45: 4 May 2018
+
+**Today's Progress**: Started the programming exercise for week six. This one is about learning curves.
+
+**Thoughts:** Computing the cost function and the gradients for linear regression with regularisation was simple enough, as I had already written all the parts I needed in previous exercises though. I'm having difficulty understanding the instructions for creating the learning curve, though. Will have another go at it tomorrow.
