@@ -269,3 +269,9 @@
 **Today's Progress**: Started the programming exercise for week six. This one is about learning curves.
 
 **Thoughts:** Computing the cost function and the gradients for linear regression with regularisation was simple enough, as I had already written all the parts I needed in previous exercises though. I'm having difficulty understanding the instructions for creating the learning curve, though. Will have another go at it tomorrow.
+
+### Day 46: 5 May 2018
+
+**Today's Progress**: Finished week six - both the programming exercise and the second quiz.
+
+**Thoughts:** The programming exercise turned out to be pretty easy once I figured out what the instructions were getting at. It certainly wasn't as hard as the exercise for week five. The material for the second quiz was pretty interesting. It was all about how you should think when you implement learning algorithms - what to do next, when large training sets can help, and in general how not to waste your time doing things that aren't that likely to work. Next up, support vector machines, something I've been looking forward to studying.
