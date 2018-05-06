@@ -275,3 +275,9 @@
 **Today's Progress**: Finished week six - both the programming exercise and the second quiz.
 
 **Thoughts:** The programming exercise turned out to be pretty easy once I figured out what the instructions were getting at. It certainly wasn't as hard as the exercise for week five. The material for the second quiz was pretty interesting. It was all about how you should think when you implement learning algorithms - what to do next, when large training sets can help, and in general how not to waste your time doing things that aren't that likely to work. Next up, support vector machines, something I've been looking forward to studying.
+
+### Day 47: 6 May 2018
+
+**Today's Progress**: Started watching the week seven videos about support vector machines.
+
+**Thoughts:** I'm still not completely comfortable with the maths involved in SVMs, so perhaps I'll have to watch the videos again and/or study from a source that has a detailed derivation. But I think I have the basic idea of how SVMs work.
