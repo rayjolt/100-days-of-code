@@ -281,3 +281,9 @@
 **Today's Progress**: Started watching the week seven videos about support vector machines.
 
 **Thoughts:** I'm still not completely comfortable with the maths involved in SVMs, so perhaps I'll have to watch the videos again and/or study from a source that has a detailed derivation. But I think I have the basic idea of how SVMs work.
+
+### Day 48: 7 May 2018
+
+**Today's Progress**: Continued with the week seven videos, and also did some extra reading about SVMs.
+
+**Thoughts:** The Coursera course definitely isn't telling the full story regarding the SVM maths. However, I was only able to skim read a few things with the time I had today. More detailed reading will have to wait until tomorrow.
