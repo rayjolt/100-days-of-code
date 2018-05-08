@@ -287,3 +287,9 @@
 **Today's Progress**: Continued with the week seven videos, and also did some extra reading about SVMs.
 
 **Thoughts:** The Coursera course definitely isn't telling the full story regarding the SVM maths. However, I was only able to skim read a few things with the time I had today. More detailed reading will have to wait until tomorrow.
+
+### Day 49: 8 May 2018
+
+**Today's Progress**: Finished the videos and the quiz for week seven.
+
+**Thoughts:** I didn't do any work on the maths of SVMs today in the end. After having done the quiz I feel like I understand SVMs well enough, although I know there are more things I can learn - there's Mercer's theorem, which Prof Ng mentioned, and I could probably do with learning some more about the Gaussian kernel too. But what I know now is definitely enough to use SVMs, and it's enough for the ML course. I'll see if the mood strikes me another day to have a deeper look into the maths.
