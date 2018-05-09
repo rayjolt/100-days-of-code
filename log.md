@@ -293,3 +293,9 @@
 **Today's Progress**: Finished the videos and the quiz for week seven.
 
 **Thoughts:** I didn't do any work on the maths of SVMs today in the end. After having done the quiz I feel like I understand SVMs well enough, although I know there are more things I can learn - there's Mercer's theorem, which Prof Ng mentioned, and I could probably do with learning some more about the Gaussian kernel too. But what I know now is definitely enough to use SVMs, and it's enough for the ML course. I'll see if the mood strikes me another day to have a deeper look into the maths.
+
+### Day 50: 8 May 2018
+
+**Today's Progress**: Started the programming exercise for week seven.
+
+**Thoughts:** Halfway through! The programming exercise this week is pretty fun, as it's actually starting to resemble something like a real-world problem - specifically, spam classification. This exercise also burns lots of CPU cycles to compute the beset model parameters, which is something I'll probably be doing a lot more of in the future. At least with Coursera courses you don't have to send all your data to the cloud just to find that you've made a syntax error...
