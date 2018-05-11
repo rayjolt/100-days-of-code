@@ -305,3 +305,9 @@
 **Today's Progress**: Finished week seven, and started on week eight: unsupervised learning.
 
 **Thoughts:** The rest of the programming exercise for week seven was pretty easy - all the hard parts of preprocessing the spam emails in the spam classifier had already been done for me. (I'm quite glad of that, as they look much more of a pain to do in Octave than in Python.) The unsupervised learning stuff looks pretty interesting, and Prof Ng's explanation of K-means was very clear. With SVMs I was just using a library to do the hard mathematical coding, but with K-means I get the feeling that I'll be doing it all manually.
+
+### Day 52: 11 May 2018
+
+**Today's Progress**: Studied more about K-means, took the quiz, and started on dimensionality reduction.
+
+**Thoughts:** The K-means quiz was not hard at all - it's definitely an easier algorithm than the other ones in the course so far. I just got started on dimensionality reduction, but Prof. Ng hasn't got into the maths at all, so I suppose I'll find out how hard it is tomorrow.
