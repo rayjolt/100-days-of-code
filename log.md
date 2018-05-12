@@ -311,3 +311,9 @@
 **Today's Progress**: Studied more about K-means, took the quiz, and started on dimensionality reduction.
 
 **Thoughts:** The K-means quiz was not hard at all - it's definitely an easier algorithm than the other ones in the course so far. I just got started on dimensionality reduction, but Prof. Ng hasn't got into the maths at all, so I suppose I'll find out how hard it is tomorrow.
+
+### Day 53: 12 May 2018
+
+**Today's Progress**: Finished the quiz for dimensionality reduction.
+
+**Thoughts:** Prof Ng mentioned eigenvectors today, which is something that I haven't learned so far in my linear algebra journey. This is making me want to study more maths - I still have quite a few videos left to go on the Khan Academny linear algebra course. Perhaps I'll have a look at those after doing the week eight programming exercise.
