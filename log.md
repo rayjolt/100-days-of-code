@@ -317,3 +317,9 @@
 **Today's Progress**: Finished the quiz for dimensionality reduction.
 
 **Thoughts:** Prof Ng mentioned eigenvectors today, which is something that I haven't learned so far in my linear algebra journey. This is making me want to study more maths - I still have quite a few videos left to go on the Khan Academny linear algebra course. Perhaps I'll have a look at those after doing the week eight programming exercise.
+
+### Day 54: 13 May 2018
+
+**Today's Progress**: Started the week eight programming exercise. This week's exercise is about K-means and principal component analysis. I've finished the K-means part.
+
+**Thoughts:** There wasn't anything too taxing in the K-means part of the exercise. The result was pretty interesting, though - the Coursera code used the k-means code that I wrote to compress an image from 16.7 million colours to 16 colours, and it still looked pretty good.
