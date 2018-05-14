@@ -320,6 +320,12 @@
 
 ### Day 54: 13 May 2018
 
-**Today's Progress**: Started the week eight programming exercise. This week's exercise is about K-means and principal component analysis. I've finished the K-means part.
+**Today's Progress**: Started the week eight programming exercise. This week's exercise is about K-means and principal component analysis (PCA). I've finished the K-means part.
 
 **Thoughts:** There wasn't anything too taxing in the K-means part of the exercise. The result was pretty interesting, though - the Coursera code used the k-means code that I wrote to compress an image from 16.7 million colours to 16 colours, and it still looked pretty good.
+
+### Day 55: 14 May 2018
+
+**Today's Progress**: Finished the week eight programming exercise. The second half was about PCA, and also involved image compression - this time, images of faces. 
+
+**Thoughts:** I got stuck for a while after projecting the data matrix as the transpose of what it actually should be, but all was fine once I figured that part out. Otherwise there wasn't that much actual programming to be done in the exercise. I should probably start looking for some real machine learning problems to get my teeth into, but I think I'll finish the course first.
