@@ -329,3 +329,9 @@
 **Today's Progress**: Finished the week eight programming exercise. The second half was about PCA, and also involved image compression - this time, images of faces. 
 
 **Thoughts:** I got stuck for a while after projecting the data matrix as the transpose of what it actually should be, but all was fine once I figured that part out. Otherwise there wasn't that much actual programming to be done in the exercise. I should probably start looking for some real machine learning problems to get my teeth into, but I think I'll finish the course first.
+
+### Day 56: 15 May 2018
+
+**Today's Progress**: Started week eight - this week is about anomaly detection. 
+
+**Thoughts:** For this week I actually know the maths pretty well - anomaly detection is all about working with normal distributions. I remember learning about these in school, and while it has been a while, it seems I haven't forgotten very much of it.
