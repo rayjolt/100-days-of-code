@@ -332,6 +332,12 @@
 
 ### Day 56: 15 May 2018
 
-**Today's Progress**: Started week eight - this week is about anomaly detection. 
+**Today's Progress**: Started week nine - this week is about anomaly detection. 
 
 **Thoughts:** For this week I actually know the maths pretty well - anomaly detection is all about working with normal distributions. I remember learning about these in school, and while it has been a while, it seems I haven't forgotten very much of it.
+
+### Day 57: 16 May 2018
+
+**Today's Progress**: Finished the anomaly detection quiz.
+
+**Thoughts:** Today I learned about multivariate Gaussian distributions. It looks like they could be pretty useful for the right data set. Covariant matrixes came up again, which is making me think about studying more linear algebra. I'm also quite keen to get the course finished, though - only two and a half weeks to go, which is maybe one week in real time.
