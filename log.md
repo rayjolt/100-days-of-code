@@ -341,3 +341,9 @@
 **Today's Progress**: Finished the anomaly detection quiz.
 
 **Thoughts:** Today I learned about multivariate Gaussian distributions. It looks like they could be pretty useful for the right data set. Covariant matrixes came up again, which is making me think about studying more linear algebra. I'm also quite keen to get the course finished, though - only two and a half weeks to go, which is maybe one week in real time.
+
+### Day 58: 17 May 2018
+
+**Today's Progress**: Watched the videos about recommender systems and took the quiz.
+
+**Thoughts:** The recommender systems quiz was pretty hard! Well, one question in particular, about which formulas for the algorithm are equivalent. I might need to do some more work on that.
