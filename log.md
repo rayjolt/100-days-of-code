@@ -347,3 +347,9 @@
 **Today's Progress**: Watched the videos about recommender systems and took the quiz.
 
 **Thoughts:** The recommender systems quiz was pretty hard! Well, one question in particular, about which formulas for the algorithm are equivalent. I might need to do some more work on that.
+
+### Day 59: 18 May 2018
+
+**Today's Progress**: Finished the first half of the week nine programming exercise. This part was about anomaly detection.
+
+**Thoughts:** Just like the videos, this part of the programming exercise wasn't particularly hard. Also, this is the last exercise, and probably the last time I'll use Octave for a while. It's been fun, but Python is definitely where it's at.
