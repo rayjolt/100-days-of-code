@@ -353,3 +353,9 @@
 **Today's Progress**: Finished the first half of the week nine programming exercise. This part was about anomaly detection.
 
 **Thoughts:** Just like the videos, this part of the programming exercise wasn't particularly hard. Also, this is the last exercise, and probably the last time I'll use Octave for a while. It's been fun, but Python is definitely where it's at.
+
+### Day 60: 19 May 2018
+
+**Today's Progress**: Working through the second half of the programming exercise.
+
+**Thoughts:** I was having difficulties making a vectorised implementation of the partial differentials of the cost function, so I took the time out to make a version using for loops. The for loop version is working, so tomorrow I'll try and vectorise it properly. Up to now I've just been writing the vectorised versions straight away (usually after squinting at the algorithm for long time, testing things out in the console and making lots of mistakes), so this is a new approach for me. I'll see if it makes the vectorisation any easier.
