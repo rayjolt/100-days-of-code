@@ -359,3 +359,9 @@
 **Today's Progress**: Working through the second half of the programming exercise.
 
 **Thoughts:** I was having difficulties making a vectorised implementation of the partial differentials of the cost function, so I took the time out to make a version using for loops. The for loop version is working, so tomorrow I'll try and vectorise it properly. Up to now I've just been writing the vectorised versions straight away (usually after squinting at the algorithm for long time, testing things out in the console and making lots of mistakes), so this is a new approach for me. I'll see if it makes the vectorisation any easier.
+
+### Day 61: 20 May 2018
+
+**Today's Progress**: More work on the programming exercise.
+
+**Thoughts:** This vectorisation is hard! I'm still working on the same thing as yesterday, really. There are some tips in the exercise notes that I haven't fully tried out yet, so I'll read those more thoroughly tomorrow and try again.
