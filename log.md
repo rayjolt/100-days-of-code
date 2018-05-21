@@ -365,3 +365,9 @@
 **Today's Progress**: More work on the programming exercise.
 
 **Thoughts:** This vectorisation is hard! I'm still working on the same thing as yesterday, really. There are some tips in the exercise notes that I haven't fully tried out yet, so I'll read those more thoroughly tomorrow and try again.
+
+### Day 62: 21 May 2018
+
+**Today's Progress**: Finished the programming exercise.
+
+**Thoughts:** Finished the vectorisation after reading the tips again, and after that part was done the rest of the exercise was pretty easy. The last part was pretty interesting - I rated a bunch of films that I have seen, and my algorithm gave me some recommendations for other films that I might like. One of my recommendations was "Santa with Muscles", though, so maybe I need to give it some more data. ;)
