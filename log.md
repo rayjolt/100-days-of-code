@@ -371,3 +371,9 @@
 **Today's Progress**: Finished the programming exercise.
 
 **Thoughts:** Finished the vectorisation after reading the tips again, and after that part was done the rest of the exercise was pretty easy. The last part was pretty interesting - I rated a bunch of films that I have seen, and my algorithm gave me some recommendations for other films that I might like. One of my recommendations was "Santa with Muscles", though, so maybe I need to give it some more data. ;)
+
+### Day 63: 22 May 2018
+
+**Today's Progress**: Did the whole of week ten. This week was about working with very large data sets. I learned about stochastic gradient descent and mini-batch gradient descent, which were both pretty interesting, and about map-reduce, which I already knew about from many articles about Google's search infrastructure. And also online learning algorithms, where you learn from a live stream of data.
+
+**Thoughts:** This was a very quick week. It certainly speeds things up when there aren't any programming exercises. I suppose the lack of a programming exercise makes sense, as I would imagine that it's hard to use very large data sets with things like Coursera. The quiz was pretty easy - there wasn't much maths or programming in the videos, so I'm guessing there was less scope for writing questions that might trip people up.
