@@ -138,6 +138,8 @@
 
 **Thoughts:** The last programming exercise was the easiest of the lot - it was basically just copying and pasting function definitions that I'd written before. The result was pretty good though - my cat-recognition model is now up to 80% accuracy.
 
+**Link to work:** [Coursera Neural Networks and Deep Learning course certificate](https://coursera.org/verify/DS9ESVUFDUFK)
+
 ### Day 24: 13 April 2018
 
 **Today's Progress**: Started on Andrew Ng's Machine Learning course at Coursera, and took the first quiz.
@@ -377,3 +379,11 @@
 **Today's Progress**: Did the whole of week ten. This week was about working with very large data sets. I learned about stochastic gradient descent and mini-batch gradient descent, which were both pretty interesting, and about map-reduce, which I already knew about from many articles about Google's search infrastructure. And also online learning algorithms, where you learn from a live stream of data.
 
 **Thoughts:** This was a very quick week. It certainly speeds things up when there aren't any programming exercises. I suppose the lack of a programming exercise makes sense, as I would imagine that it's hard to use very large data sets with things like Coursera. The quiz was pretty easy - there wasn't much maths or programming in the videos, so I'm guessing there was less scope for writing questions that might trip people up.
+
+### Day 64: 23 May 2018
+
+**Today's Progress**: Finished the course! Week 11 was about the same length as week 10 - maybe a bit shorter, in fact. This week we covered machine learning pipelines and ceiling analysis.
+
+**Thoughts:** It feels great to complete the course. I've learned a lot about machine learning and Octave in the last 40 days, and I'm sure a lot of it will come in useful. And the certificate looks pretty good too! I'm considering getting a nice printout of it and having it framed. :)
+
+**Link to work:** [Coursera Machine Learning course certificate](https://coursera.org/verify/GWXASG3KRK5T)
