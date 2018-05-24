@@ -387,3 +387,9 @@
 **Thoughts:** It feels great to complete the course. I've learned a lot about machine learning and Octave in the last 40 days, and I'm sure a lot of it will come in useful. And the certificate looks pretty good too! I'm considering getting a nice printout of it and having it framed. :)
 
 **Link to work:** [Coursera Machine Learning course certificate](https://coursera.org/verify/GWXASG3KRK5T)
+
+### Day 65: 24 May 2018
+
+**Today's Progress**: I started back where I left off with the Deep Learning Coursera speciality - course two, entitled "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization". I'll use IDNN for short, I think.
+
+**Thoughts:** It is a bit of a jolt to come from the easier algorithms at the end of the machine learning course straight back into deep neural networks. And the algorithms are only getting more complicated - the focus in week one of the course is on dropout regularisation, where you just randomly remove nodes from your network for every training example, which means that the cost function is no longer well defined. Also, the notation is different from the machine learning course, which doesn't help. I may have to review some of the first deep learning course if I get lost.
