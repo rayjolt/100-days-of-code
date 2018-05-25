@@ -393,3 +393,9 @@
 **Today's Progress**: I started back where I left off with the Deep Learning Coursera speciality - course two, entitled "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization". I'll use IDNN for short, I think.
 
 **Thoughts:** It is a bit of a jolt to come from the easier algorithms at the end of the machine learning course straight back into deep neural networks. And the algorithms are only getting more complicated - the focus in week one of the course is on dropout regularisation, where you just randomly remove nodes from your network for every training example, which means that the cost function is no longer well defined. Also, the notation is different from the machine learning course, which doesn't help. I may have to review some of the first deep learning course if I get lost.
+
+### Day 66: 25 May 2018
+
+**Today's Progress**: Finished the videos for week one, and took the quiz. Learned some more about regularisation and gradient checking, as well as vanishing and exploding gradients and techniques for setting up the neural network weights.
+
+**Thoughts:** I have a pretty bad cold today so it wasn't easy to convince myself to start studying, but once I started it wasn't too bad.
