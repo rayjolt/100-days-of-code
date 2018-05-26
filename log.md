@@ -399,3 +399,9 @@
 **Today's Progress**: Finished the videos for week one, and took the quiz. Learned some more about regularisation and gradient checking, as well as vanishing and exploding gradients and techniques for setting up the neural network weights.
 
 **Thoughts:** I have a pretty bad cold today so it wasn't easy to convince myself to start studying, but once I started it wasn't too bad.
+
+### Day 67: 26 May 2018
+
+**Today's Progress**: Finished the first programming exercise of three for week one. This one was about setting up your weights properly.
+
+**Thoughts:** I'm guessing that this exercise is the simple one, and the second and third ones will be harder. Having an easy exercise today was just right, though, as I'm still not 100% because of my cold. (It's better than yesterday, though.)
