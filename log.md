@@ -405,3 +405,9 @@
 **Today's Progress**: Finished the first programming exercise of three for week one. This one was about setting up your weights properly.
 
 **Thoughts:** I'm guessing that this exercise is the simple one, and the second and third ones will be harder. Having an easy exercise today was just right, though, as I'm still not 100% because of my cold. (It's better than yesterday, though.)
+
+### Day 68: 27 May 2018
+
+**Today's Progress**: Finished week one. The remaining two programming exercises were on regularisation and gradient checking.
+
+**Thoughts:** It was a bit of a slog to get through the other two programming exercises today. For one thing, I kept getting tripped up by the automatic grading system. (One of them was because I was using a numpy.float64 instead of a regular Python float - the other I think was I used < instead of <=, but I'm not certain.) But I wanted to finish them today because otherwise I would have to switch to a later course session.
