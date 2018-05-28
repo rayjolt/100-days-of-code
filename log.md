@@ -411,3 +411,9 @@
 **Today's Progress**: Finished week one. The remaining two programming exercises were on regularisation and gradient checking.
 
 **Thoughts:** It was a bit of a slog to get through the other two programming exercises today. For one thing, I kept getting tripped up by the automatic grading system. (One of them was because I was using a numpy.float64 instead of a regular Python float - the other I think was I used < instead of <=, but I'm not certain.) But I wanted to finish them today because otherwise I would have to switch to a later course session.
+
+### Day 69: 28 May 2018
+
+**Today's Progress**: Started the week two videos. This week is all about (even more) alternatives to gradient descent - mini-batch gradient descent, momentum, RMSprop, and Adam.
+
+**Thoughts:** The Machine Learning course was good preparation for this, not least because I've covered mini-batch gradient descent before. I'll be taking the quiz and starting on the programming exercise tomorrow, so I'll see how that goes.
