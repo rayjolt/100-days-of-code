@@ -417,3 +417,9 @@
 **Today's Progress**: Started the week two videos. This week is all about (even more) alternatives to gradient descent - mini-batch gradient descent, momentum, RMSprop, and Adam.
 
 **Thoughts:** The Machine Learning course was good preparation for this, not least because I've covered mini-batch gradient descent before. I'll be taking the quiz and starting on the programming exercise tomorrow, so I'll see how that goes.
+
+### Day 70: 29 May 2018
+
+**Today's Progress**: Finished the week two quiz and started on the programming exercise.
+
+**Thoughts:** The other two videos for this week were mostly things I had covered before, but there was one very interesting observation about local minima in higher-dimensional spaces that was new to me. Namely, that it is very rare to have a true local minimum in very high-dimensional spaces, because then the curves in all of the dimensions would have to be pointing the same way (the "saddle" effect). I haven't done enough of the programming exercise to see if it will be tricky, but so far it has been fairly easy.
