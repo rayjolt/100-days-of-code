@@ -423,3 +423,9 @@
 **Today's Progress**: Finished the week two quiz and started on the programming exercise.
 
 **Thoughts:** The other two videos for this week were mostly things I had covered before, but there was one very interesting observation about local minima in higher-dimensional spaces that was new to me. Namely, that it is very rare to have a true local minimum in very high-dimensional spaces, because then the curves in all of the dimensions would have to be pointing the same way (the "saddle" effect). I haven't done enough of the programming exercise to see if it will be tricky, but so far it has been fairly easy.
+
+### Day 71: 30 May 2018
+
+**Today's Progress**: Continued with the programming exercise, although most of my time was spent reading about NumPy array indexing.
+
+**Thoughts:** I have always found NumPy array indexing kind of confusing, but thanks to the NumPy docs and especially [this StackOverflow answer](https://stackoverflow.com/a/21166366/5287638) I now have a much better handle on things.
