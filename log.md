@@ -429,3 +429,9 @@
 **Today's Progress**: Continued with the programming exercise, although most of my time was spent reading about NumPy array indexing.
 
 **Thoughts:** I have always found NumPy array indexing kind of confusing, but thanks to the NumPy docs and especially [this StackOverflow answer](https://stackoverflow.com/a/21166366/5287638) I now have a much better handle on things.
+
+### Day 72: 31 May 2018
+
+**Today's Progress**: Finished the programming exercise.
+
+**Thoughts:** I managed to stump myself for a while with a misplaced bracket, and also the formulae have so many subscripts and superscripts that they're getting pretty hard to read. But overall, not so difficult an assignment this time.
