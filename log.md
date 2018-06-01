@@ -435,3 +435,9 @@
 **Today's Progress**: Finished the programming exercise.
 
 **Thoughts:** I managed to stump myself for a while with a misplaced bracket, and also the formulae have so many subscripts and superscripts that they're getting pretty hard to read. But overall, not so difficult an assignment this time.
+
+### Day 73: 1 June 2017
+
+**Today's Progress**: Started the videos for week three. This week is about tuning hyperparameters and applying batch normalisation, and TensorFlow.
+
+**Thoughts:** Batch norm is a pretty interesting idea that will help a lot in training deeper networks. And I'm excited at the prospect of finally learning a real ML library, instead of just using NumPy and Octave for everything.
