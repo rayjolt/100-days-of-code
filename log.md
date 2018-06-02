@@ -441,3 +441,9 @@
 **Today's Progress**: Started the videos for week three. This week is about tuning hyperparameters and applying batch normalisation, and TensorFlow.
 
 **Thoughts:** Batch norm is a pretty interesting idea that will help a lot in training deeper networks. And I'm excited at the prospect of finally learning a real ML library, instead of just using NumPy and Octave for everything.
+
+### Day 74: 2 June 2017
+
+**Today's Progress**: Finished the week 3 quiz.
+
+**Thoughts:** I didn't actually start using TensorFlow today, although I did get to see a video about how it works. The real TensorFlowing starts tomorrow.
