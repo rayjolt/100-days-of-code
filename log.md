@@ -447,3 +447,9 @@
 **Today's Progress**: Finished the week 3 quiz.
 
 **Thoughts:** I didn't actually start using TensorFlow today, although I did get to see a video about how it works. The real TensorFlowing starts tomorrow.
+
+### Day 75: 3 June 2017
+
+**Today's Progress**: Started the TensorFlow programming exercise.
+
+**Thoughts:** I'm liking TensorFlow so far. Writing out the cost function for my neural networks just got a whole lot easier! Plus, I got to use the Python matrix multiplication operator for the first time ever.
