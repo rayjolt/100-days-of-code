@@ -453,3 +453,9 @@
 **Today's Progress**: Started the TensorFlow programming exercise.
 
 **Thoughts:** I'm liking TensorFlow so far. Writing out the cost function for my neural networks just got a whole lot easier! Plus, I got to use the Python matrix multiplication operator for the first time ever.
+
+### Day 76: 4 June 2017
+
+**Today's Progress**: Still working through the TensorFlow programming exercise.
+
+**Thoughts:** I'm taking this one nice and slow - took a little detour today to get TensorFlow set up on my home machine with pipenv, which turned out to be pleasantly easy. I've just finished the introductory material on TensorFlow, and tomorrow I'll make a real neural net with it.
