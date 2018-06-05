@@ -459,3 +459,9 @@
 **Today's Progress**: Still working through the TensorFlow programming exercise.
 
 **Thoughts:** I'm taking this one nice and slow - took a little detour today to get TensorFlow set up on my home machine with pipenv, which turned out to be pleasantly easy. I've just finished the introductory material on TensorFlow, and tomorrow I'll make a real neural net with it.
+
+### Day 77: 5 June 2017
+
+**Today's Progress**: Finished the TensorFlow programming exercise.
+
+**Thoughts:** I suppose it's to be expected, but writing neural nets in TensorFlow is a lot less error-prone than writing them in straight NumPy. And the back-propagation step is completely taken care of for you, which is marvellous. The problem is more to do with knowing how the library works and how you fit the various bits together to make a model. And using good models, of course. That's it for the Improving Deep Neural Networks course, although the grader for the programming exercise appears to be broken, so I can't post my certificate yet. I'll be moving straight on to the next course in the speciality: "Structuring Machine Learning Projects".
