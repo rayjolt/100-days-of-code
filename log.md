@@ -465,3 +465,11 @@
 **Today's Progress**: Finished the TensorFlow programming exercise.
 
 **Thoughts:** I suppose it's to be expected, but writing neural nets in TensorFlow is a lot less error-prone than writing them in straight NumPy. And the back-propagation step is completely taken care of for you, which is marvellous. The problem is more to do with knowing how the library works and how you fit the various bits together to make a model. And using good models, of course. That's it for the Improving Deep Neural Networks course, although the grader for the programming exercise appears to be broken, so I can't post my certificate yet. I'll be moving straight on to the next course in the speciality: "Structuring Machine Learning Projects".
+
+### Day 78: 6 June 2017
+
+**Today's Progress**: Got the programming exercise accepted, and started on the Structuring Machine Learning Projects course (SMLP for short).
+
+**Thoughts:** It turns out that my assignments were being failed because I was using Python's `@` operator instead of TensorFlow's `tf.matmul` function. They both do the same thing, though, so that's definitely a Coursera grader bug. I haven't got that far into the new course yet - I've just watched the first few videos - although a few things that came up in the Machine Learning course have come up again, which is nice review.
+
+**Link to work:** [Coursera Improving Deep Neural Networks course certificate](https://coursera.org/verify/NZQMB47FXRF4)
