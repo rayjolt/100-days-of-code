@@ -473,3 +473,10 @@
 **Thoughts:** It turns out that my assignments were being failed because I was using Python's `@` operator instead of TensorFlow's `tf.matmul` function. They both do the same thing, though, so that's definitely a Coursera grader bug. I haven't got that far into the new course yet - I've just watched the first few videos - although a few things that came up in the Machine Learning course have come up again, which is nice review.
 
 **Link to work:** [Coursera Improving Deep Neural Networks course certificate](https://coursera.org/verify/NZQMB47FXRF4)
+
+
+### Day 79: 7 June 2017
+
+**Today's Progress**: Finished the week one quiz for SMLP.
+
+**Thoughts:** The quiz this time was pretty interesting - we were given questions simulating a real-world ML system and its lifecycle, and had to make decisions about what to do next. Some of them weren't so obvious!
