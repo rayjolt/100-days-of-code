@@ -474,9 +474,14 @@
 
 **Link to work:** [Coursera Improving Deep Neural Networks course certificate](https://coursera.org/verify/NZQMB47FXRF4)
 
-
 ### Day 79: 7 June 2017
 
 **Today's Progress**: Finished the week one quiz for SMLP.
 
 **Thoughts:** The quiz this time was pretty interesting - we were given questions simulating a real-world ML system and its lifecycle, and had to make decisions about what to do next. Some of them weren't so obvious!
+
+### Day 80: 8 June 2017
+
+**Today's Progress**: Started the week two videos for SMLP.
+
+**Thoughts:** The videos for this week are about data - how to work out what errors to focus on, what to do about mislabeled data, and how to work with different data distributions. Some of it I learned in the ML course, but some of it is new. Pretty interesting stuff.
