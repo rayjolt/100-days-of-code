@@ -485,3 +485,11 @@
 **Today's Progress**: Started the week two videos for SMLP.
 
 **Thoughts:** The videos for this week are about data - how to work out what errors to focus on, what to do about mislabeled data, and how to work with different data distributions. Some of it I learned in the ML course, but some of it is new. Pretty interesting stuff.
+
+### Day 81: 9 June 2017
+
+**Today's Progress**: Finished the SMLP course.
+
+**Thoughts:** No programming exercises in this course, and there were only two weeks, so it was over very quickly. The quiz for week two was similar to week one - a simulation of a machine learning project. Again, some of the questions were pretty tricky.
+
+**Link to work:** [Coursera Structuring Machine Learning Projects course certificate](https://coursera.org/verify/4KSCKS2YA2MH)
