@@ -493,3 +493,9 @@
 **Thoughts:** No programming exercises in this course, and there were only two weeks, so it was over very quickly. The quiz for week two was similar to week one - a simulation of a machine learning project. Again, some of the questions were pretty tricky.
 
 **Link to work:** [Coursera Structuring Machine Learning Projects course certificate](https://coursera.org/verify/4KSCKS2YA2MH)
+
+### Day 82: 10 June 2017
+
+**Today's Progress**: Started the next course in the deeplearning.ai speciality: "Convolutional Neural Networks". So far I've watched the videos on the basic theory of the convolution operation.
+
+**Thoughts:** It turns out that the convolution operation is used for edge detection, which I found pretty interesting. I have yet to see how it fits in with neural netsm but that will come in the next few days as I work through the course.
