@@ -499,3 +499,9 @@
 **Today's Progress**: Started the next course in the deeplearning.ai speciality: "Convolutional Neural Networks". So far I've watched the videos on the basic theory of the convolution operation.
 
 **Thoughts:** It turns out that the convolution operation is used for edge detection, which I found pretty interesting. I have yet to see how it fits in with neural netsm but that will come in the next few days as I work through the course.
+
+### Day 83: 11 June 2017
+
+**Today's Progress**: Did the quiz for week one of the Convolutional Neural Networks course (ConvNet from now on).
+
+**Thoughts:** The quiz had a couple of tricky questions, but maybe not as tricky as the quizzes for the previous course. I'm feeling pretty good about the basics of ConvNets now. I'm looking forward to the programming exercises so I can actually make one myself.
