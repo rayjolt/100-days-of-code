@@ -505,3 +505,9 @@
 **Today's Progress**: Did the quiz for week one of the Convolutional Neural Networks course (ConvNet from now on).
 
 **Thoughts:** The quiz had a couple of tricky questions, but maybe not as tricky as the quizzes for the previous course. I'm feeling pretty good about the basics of ConvNets now. I'm looking forward to the programming exercises so I can actually make one myself.
+
+### Day 84: 12 June 2017
+
+**Today's Progress**: Started the first programming exercise for week one of ConvNets. This one is about implementing convolutional neural nets from the ground up.
+
+**Thoughts:** Took it pretty relaxed today. I got as far as doing one forward pass of a ConvNet, although my implementation is giving an error at the moment. Will debug it tomorrow. 
