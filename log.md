@@ -511,3 +511,9 @@
 **Today's Progress**: Started the first programming exercise for week one of ConvNets. This one is about implementing convolutional neural nets from the ground up.
 
 **Thoughts:** Took it pretty relaxed today. I got as far as doing one forward pass of a ConvNet, although my implementation is giving an error at the moment. Will debug it tomorrow. 
+
+### Day 85: 13 June 2017
+
+**Today's Progress**: Still working through the programming assignments.
+
+**Thoughts:** I managed to debug yesterday's error, although I didn't get much further than that today. (It didn't help that my notebook from yesterday didn't get saved, making me have to type in all of yesterday's work again.)
