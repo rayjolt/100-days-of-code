@@ -517,3 +517,9 @@
 **Today's Progress**: Still working through the programming assignments.
 
 **Thoughts:** I managed to debug yesterday's error, although I didn't get much further than that today. (It didn't help that my notebook from yesterday didn't get saved, making me have to type in all of yesterday's work again.)
+
+### Day 86: 14 June 2017
+
+**Today's Progress**: Still working through the programming assignments. I finished coding the forward pass of a ConvNet, and now I'm starting on the backward pass.
+
+**Thoughts:** The backward pass is going pretty well so far, although I haven't had to look at the calculus at all as part of the course. Maybe I should look at it separately later - or maybe take another calculus course on Coursera after I finish the deeplearning.ai speciality.
