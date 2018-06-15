@@ -523,3 +523,9 @@
 **Today's Progress**: Still working through the programming assignments. I finished coding the forward pass of a ConvNet, and now I'm starting on the backward pass.
 
 **Thoughts:** The backward pass is going pretty well so far, although I haven't had to look at the calculus at all as part of the course. Maybe I should look at it separately later - or maybe take another calculus course on Coursera after I finish the deeplearning.ai speciality.
+
+### Day 87: 15 June 2017
+
+**Today's Progress**: Almost done with the programming assignments. I'm on the last function, though it's a tricky one.
+
+**Thoughts:** I have the feeling that it would be easier if I was allowed to just write the code, and not have to try and follow the Coursera code suggesions. Sometimes it feels like trying to read someone's mind... But maybe it will be clearer in the morning.
