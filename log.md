@@ -529,3 +529,9 @@
 **Today's Progress**: Almost done with the programming assignments. I'm on the last function, though it's a tricky one.
 
 **Thoughts:** I have the feeling that it would be easier if I was allowed to just write the code, and not have to try and follow the Coursera code suggesions. Sometimes it feels like trying to read someone's mind... But maybe it will be clearer in the morning.
+
+### Day 88: 16 June 2017
+
+**Today's Progress**: Finished the programming exercise and started on the week two videos.
+
+**Thoughts:** The programming exercise was definitely clearer this morning. It definitely pays to take some time away from the problem sometimes. Week two is about case studies of convolutional neural networks, so by the end of the week I should have seen lots of examples of good network architectures that I can use.
