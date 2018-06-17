@@ -535,3 +535,9 @@
 **Today's Progress**: Finished the programming exercise and started on the week two videos.
 
 **Thoughts:** The programming exercise was definitely clearer this morning. It definitely pays to take some time away from the problem sometimes. Week two is about case studies of convolutional neural networks, so by the end of the week I should have seen lots of examples of good network architectures that I can use.
+
+### Day 89: 17 June 2017
+
+**Today's Progress**: Learned about residual neural networks (ResNets) and the Inception network.
+
+**Thoughts:** Both ResNets and Inception are about making deeper and deeper neural networks (and yes, the name of the Inception network does come from the film). We are talking about 100s of layers, which is pretty impressive. I'm looking forward seeing how these ideas are integrated in the programming exercises, which I will probably get to tomorrow.
