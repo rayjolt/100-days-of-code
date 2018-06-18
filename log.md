@@ -541,3 +541,9 @@
 **Today's Progress**: Learned about residual neural networks (ResNets) and the Inception network.
 
 **Thoughts:** Both ResNets and Inception are about making deeper and deeper neural networks (and yes, the name of the Inception network does come from the film). We are talking about 100s of layers, which is pretty impressive. I'm looking forward seeing how these ideas are integrated in the programming exercises, which I will probably get to tomorrow.
+
+### Day 90: 18 June 2017
+
+**Today's Progress**: Did the week two quiz.
+
+**Thoughts:** The rest of the week two videos were about practical advice for using ConvNets, which I'm sure will come in handy. The quiz was mostly about ResNets and the Inception network, though, which was a good test of what I learned in the videos the couple of days before. The programming exercises this week use Keras, which I've been looking forward to get started with.
