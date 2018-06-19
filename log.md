@@ -547,3 +547,9 @@
 **Today's Progress**: Did the week two quiz.
 
 **Thoughts:** The rest of the week two videos were about practical advice for using ConvNets, which I'm sure will come in handy. The quiz was mostly about ResNets and the Inception network, though, which was a good test of what I learned in the videos the couple of days before. The programming exercises this week use Keras, which I've been looking forward to get started with.
+
+### Day 91: 19 June 2017
+
+**Today's Progress**: Started the Keras tutorial.
+
+**Thoughts:** Keras seems pretty easy to use so far. (I suppose anything would seem easy after coding neural nets by hand in NumPy and Octave, but hey.) It's great that it frees up your energy to focus on the actual architecture of your neural net, rather than having to worry about whether you got all of the fiddly calculations right. This exercise wasn't graded, so I'll see how I do on the graded one tomorrow.
