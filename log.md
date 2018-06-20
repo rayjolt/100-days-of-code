@@ -436,37 +436,37 @@
 
 **Thoughts:** I managed to stump myself for a while with a misplaced bracket, and also the formulae have so many subscripts and superscripts that they're getting pretty hard to read. But overall, not so difficult an assignment this time.
 
-### Day 73: 1 June 2017
+### Day 73: 1 June 2018
 
 **Today's Progress**: Started the videos for week three. This week is about tuning hyperparameters and applying batch normalisation, and TensorFlow.
 
 **Thoughts:** Batch norm is a pretty interesting idea that will help a lot in training deeper networks. And I'm excited at the prospect of finally learning a real ML library, instead of just using NumPy and Octave for everything.
 
-### Day 74: 2 June 2017
+### Day 74: 2 June 2018
 
 **Today's Progress**: Finished the week 3 quiz.
 
 **Thoughts:** I didn't actually start using TensorFlow today, although I did get to see a video about how it works. The real TensorFlowing starts tomorrow.
 
-### Day 75: 3 June 2017
+### Day 75: 3 June 2018
 
 **Today's Progress**: Started the TensorFlow programming exercise.
 
 **Thoughts:** I'm liking TensorFlow so far. Writing out the cost function for my neural networks just got a whole lot easier! Plus, I got to use the Python matrix multiplication operator for the first time ever.
 
-### Day 76: 4 June 2017
+### Day 76: 4 June 2018
 
 **Today's Progress**: Still working through the TensorFlow programming exercise.
 
 **Thoughts:** I'm taking this one nice and slow - took a little detour today to get TensorFlow set up on my home machine with pipenv, which turned out to be pleasantly easy. I've just finished the introductory material on TensorFlow, and tomorrow I'll make a real neural net with it.
 
-### Day 77: 5 June 2017
+### Day 77: 5 June 2018
 
 **Today's Progress**: Finished the TensorFlow programming exercise.
 
 **Thoughts:** I suppose it's to be expected, but writing neural nets in TensorFlow is a lot less error-prone than writing them in straight NumPy. And the back-propagation step is completely taken care of for you, which is marvellous. The problem is more to do with knowing how the library works and how you fit the various bits together to make a model. And using good models, of course. That's it for the Improving Deep Neural Networks course, although the grader for the programming exercise appears to be broken, so I can't post my certificate yet. I'll be moving straight on to the next course in the speciality: "Structuring Machine Learning Projects".
 
-### Day 78: 6 June 2017
+### Day 78: 6 June 2018
 
 **Today's Progress**: Got the programming exercise accepted, and started on the Structuring Machine Learning Projects course (SMLP for short).
 
@@ -474,19 +474,19 @@
 
 **Link to work:** [Coursera Improving Deep Neural Networks course certificate](https://coursera.org/verify/NZQMB47FXRF4)
 
-### Day 79: 7 June 2017
+### Day 79: 7 June 2018
 
 **Today's Progress**: Finished the week one quiz for SMLP.
 
 **Thoughts:** The quiz this time was pretty interesting - we were given questions simulating a real-world ML system and its lifecycle, and had to make decisions about what to do next. Some of them weren't so obvious!
 
-### Day 80: 8 June 2017
+### Day 80: 8 June 2018
 
 **Today's Progress**: Started the week two videos for SMLP.
 
 **Thoughts:** The videos for this week are about data - how to work out what errors to focus on, what to do about mislabeled data, and how to work with different data distributions. Some of it I learned in the ML course, but some of it is new. Pretty interesting stuff.
 
-### Day 81: 9 June 2017
+### Day 81: 9 June 2018
 
 **Today's Progress**: Finished the SMLP course.
 
@@ -494,62 +494,68 @@
 
 **Link to work:** [Coursera Structuring Machine Learning Projects course certificate](https://coursera.org/verify/4KSCKS2YA2MH)
 
-### Day 82: 10 June 2017
+### Day 82: 10 June 2018
 
 **Today's Progress**: Started the next course in the deeplearning.ai speciality: "Convolutional Neural Networks". So far I've watched the videos on the basic theory of the convolution operation.
 
 **Thoughts:** It turns out that the convolution operation is used for edge detection, which I found pretty interesting. I have yet to see how it fits in with neural netsm but that will come in the next few days as I work through the course.
 
-### Day 83: 11 June 2017
+### Day 83: 11 June 2018
 
 **Today's Progress**: Did the quiz for week one of the Convolutional Neural Networks course (ConvNet from now on).
 
 **Thoughts:** The quiz had a couple of tricky questions, but maybe not as tricky as the quizzes for the previous course. I'm feeling pretty good about the basics of ConvNets now. I'm looking forward to the programming exercises so I can actually make one myself.
 
-### Day 84: 12 June 2017
+### Day 84: 12 June 2018
 
 **Today's Progress**: Started the first programming exercise for week one of ConvNets. This one is about implementing convolutional neural nets from the ground up.
 
 **Thoughts:** Took it pretty relaxed today. I got as far as doing one forward pass of a ConvNet, although my implementation is giving an error at the moment. Will debug it tomorrow. 
 
-### Day 85: 13 June 2017
+### Day 85: 13 June 2018
 
 **Today's Progress**: Still working through the programming assignments.
 
 **Thoughts:** I managed to debug yesterday's error, although I didn't get much further than that today. (It didn't help that my notebook from yesterday didn't get saved, making me have to type in all of yesterday's work again.)
 
-### Day 86: 14 June 2017
+### Day 86: 14 June 2018
 
 **Today's Progress**: Still working through the programming assignments. I finished coding the forward pass of a ConvNet, and now I'm starting on the backward pass.
 
 **Thoughts:** The backward pass is going pretty well so far, although I haven't had to look at the calculus at all as part of the course. Maybe I should look at it separately later - or maybe take another calculus course on Coursera after I finish the deeplearning.ai speciality.
 
-### Day 87: 15 June 2017
+### Day 87: 15 June 2018
 
 **Today's Progress**: Almost done with the programming assignments. I'm on the last function, though it's a tricky one.
 
 **Thoughts:** I have the feeling that it would be easier if I was allowed to just write the code, and not have to try and follow the Coursera code suggesions. Sometimes it feels like trying to read someone's mind... But maybe it will be clearer in the morning.
 
-### Day 88: 16 June 2017
+### Day 88: 16 June 2018
 
 **Today's Progress**: Finished the programming exercise and started on the week two videos.
 
 **Thoughts:** The programming exercise was definitely clearer this morning. It definitely pays to take some time away from the problem sometimes. Week two is about case studies of convolutional neural networks, so by the end of the week I should have seen lots of examples of good network architectures that I can use.
 
-### Day 89: 17 June 2017
+### Day 89: 17 June 2018
 
 **Today's Progress**: Learned about residual neural networks (ResNets) and the Inception network.
 
 **Thoughts:** Both ResNets and Inception are about making deeper and deeper neural networks (and yes, the name of the Inception network does come from the film). We are talking about 100s of layers, which is pretty impressive. I'm looking forward seeing how these ideas are integrated in the programming exercises, which I will probably get to tomorrow.
 
-### Day 90: 18 June 2017
+### Day 90: 18 June 2018
 
 **Today's Progress**: Did the week two quiz.
 
 **Thoughts:** The rest of the week two videos were about practical advice for using ConvNets, which I'm sure will come in handy. The quiz was mostly about ResNets and the Inception network, though, which was a good test of what I learned in the videos the couple of days before. The programming exercises this week use Keras, which I've been looking forward to get started with.
 
-### Day 91: 19 June 2017
+### Day 91: 19 June 2018
 
 **Today's Progress**: Started the Keras tutorial.
 
 **Thoughts:** Keras seems pretty easy to use so far. (I suppose anything would seem easy after coding neural nets by hand in NumPy and Octave, but hey.) It's great that it frees up your energy to focus on the actual architecture of your neural net, rather than having to worry about whether you got all of the fiddly calculations right. This exercise wasn't graded, so I'll see how I do on the graded one tomorrow.
+
+### Day 92: 20 June 2018
+
+**Today's Progress**: Finished the Keras programming exercise. Or at least I think I did - my model is still training as I write this.
+
+**Thoughts:** It was surprisingly simple to make a 50-layer-deep convolutional neural network with Keras. It's a testiment to the care the Keras team have taken in giving the library an intuitive API. And that's with the functional API - I gather the sequential API is even easier.
