@@ -559,3 +559,9 @@
 **Today's Progress**: Finished the Keras programming exercise. Or at least I think I did - my model is still training as I write this.
 
 **Thoughts:** It was surprisingly simple to make a 50-layer-deep convolutional neural network with Keras. It's a testiment to the care the Keras team have taken in giving the library an intuitive API. And that's with the functional API - I gather the sequential API is even easier.
+
+### Day 93: 21 June 2018
+
+**Today's Progress**: Started the videos for week three. This week is about object location.
+
+**Thoughts:** The videos I watched today were pretty interesting, especially the part where I learned how facial recognition and posture recognition worked. It was one of those "aha" moments - I've been seeing facial recognition in action for a long time (think Snapchat filters) and seeing how it works seems really obvious in hindsight. Hindsight is always 20/20, I suppose.
