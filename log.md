@@ -565,3 +565,9 @@
 **Today's Progress**: Started the videos for week three. This week is about object location.
 
 **Thoughts:** The videos I watched today were pretty interesting, especially the part where I learned how facial recognition and posture recognition worked. It was one of those "aha" moments - I've been seeing facial recognition in action for a long time (think Snapchat filters) and seeing how it works seems really obvious in hindsight. Hindsight is always 20/20, I suppose.
+
+### Day 94: 22 June 2018
+
+**Today's Progress**: Finished the quiz for week three.
+
+**Thoughts:** The quiz for this week seemed easier than for previous weeks - I suppose that is because there was less tricky maths involved, and no questions with more than one valid answer. Perhaps Prof. Ng is saving up the difficult stuff for the programming exercise?
