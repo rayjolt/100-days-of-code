@@ -571,3 +571,9 @@
 **Today's Progress**: Finished the quiz for week three.
 
 **Thoughts:** The quiz for this week seemed easier than for previous weeks - I suppose that is because there was less tricky maths involved, and no questions with more than one valid answer. Perhaps Prof. Ng is saving up the difficult stuff for the programming exercise?
+
+### Day 95: 23 June 2018
+
+**Today's Progress**: Finished the object detection programming exercise.
+
+**Thoughts:** This one definitely took more than an hour. But it was pretty cool to see the result - I effectively made an object detector for self-driving cars. (The Coursera folks trained the network and provided quite a few helper functions, though.) That's week three down - only one more to go before I finish the course.
