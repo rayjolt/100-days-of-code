@@ -577,3 +577,9 @@
 **Today's Progress**: Finished the object detection programming exercise.
 
 **Thoughts:** This one definitely took more than an hour. But it was pretty cool to see the result - I effectively made an object detector for self-driving cars. (The Coursera folks trained the network and provided quite a few helper functions, though.) That's week three down - only one more to go before I finish the course.
+
+### Day 96: 24 June 2018
+
+**Today's Progress**: Started the videos for week four. This week is about neural transfer and facial recognition.
+
+**Thoughts:** The neural transfer stuff looks interesting - it might be a fun one to try by myself outside of the course.
