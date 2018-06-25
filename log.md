@@ -583,3 +583,9 @@
 **Today's Progress**: Started the videos for week four. This week is about neural transfer and facial recognition.
 
 **Thoughts:** The neural transfer stuff looks interesting - it might be a fun one to try by myself outside of the course.
+
+### Day 97: 25 June 2018
+
+**Today's Progress**: Finished the week four quiz.
+
+**Thoughts:** There were a couple of tricky questions in this quiz, but it is continuiing the general trend of the quizzes not being as tough as before. (Probably because there is less maths in these later topics.)
