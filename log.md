@@ -589,3 +589,9 @@
 **Today's Progress**: Finished the week four quiz.
 
 **Thoughts:** There were a couple of tricky questions in this quiz, but it is continuiing the general trend of the quizzes not being as tough as before. (Probably because there is less maths in these later topics.)
+
+### Day 98: 26 June 2018
+
+**Today's Progress**: Started the neural style transfer programming exercise.
+
+**Thoughts:** I almost finished this exercise in one go, but the last function looked like it would take just a bit too much time. There's still one more exercise left in the course after this one, though. It's going to be pretty cool to test out my neural style transfer with some of my own pictures when I've finished the exercise.
