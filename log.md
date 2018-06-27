@@ -595,3 +595,9 @@
 **Today's Progress**: Started the neural style transfer programming exercise.
 
 **Thoughts:** I almost finished this exercise in one go, but the last function looked like it would take just a bit too much time. There's still one more exercise left in the course after this one, though. It's going to be pretty cool to test out my neural style transfer with some of my own pictures when I've finished the exercise.
+
+### Day 99: 27 June 2018
+
+**Today's Progress**: Still working on the neural style transfer programming exercise.
+
+**Thoughts:** Yesterday's progress was deceptive - I seem to have introduced a bug in an earlier step that means that my final generated image doesn't match up to the expected outputs. This kind of bug is probably the most time-consuming to track down, as I don't really have much of a clue where it might be. Will come back to this tomorrow. Hopefully I can solve it before my 100 days are up. ;)
