@@ -601,3 +601,11 @@
 **Today's Progress**: Still working on the neural style transfer programming exercise.
 
 **Thoughts:** Yesterday's progress was deceptive - I seem to have introduced a bug in an earlier step that means that my final generated image doesn't match up to the expected outputs. This kind of bug is probably the most time-consuming to track down, as I don't really have much of a clue where it might be. Will come back to this tomorrow. Hopefully I can solve it before my 100 days are up. ;)
+
+### Day 100: 28 June 2018
+
+**Today's Progress**: Finished! Both the 100 days, and the ConvNet course.
+
+**Thoughts:** It's been a long 100 days! There were good days and bad days, days where I did lots more than one hour, and days where I did not-quite-an-hour-but-it's-probably-enough. And even if I had to do my study on the train or at lunchtime at work, I genuinely stuck with it every single day, something I'm very proud of. I still have one more course to go in the deeplearning.ai speciality, so I will probably do that next, but first I will take a well-deserved break over the weekend.
+
+**Link to work:** [Coursera Convolutional Neural Networks course certificate](https://coursera.org/verify/NUXYSXLGRY6E)
